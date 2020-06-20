@@ -8,5 +8,3 @@ You can get E-mail address like *@jac.kr, Send me mail to get the address.
 
 Please visit to my personal web site to get more information as following URL.
 <https://www.iir.io/activities/jac-kr>
-
-Announce : This service has been terminated temporarily to change service domain.
